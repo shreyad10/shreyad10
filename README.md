@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyad10&label=Profile%20views&color=0e75b6&style=flat" alt="shreyad10" /> </p>
 
-- 🔭 I’m currently working on **Project - Book Management**
+- 🔭 I’m currently working on **Project - Url Shortner**
 
 - 🌱 I’m currently learning **NodeJs**
 
