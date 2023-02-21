@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyad10&label=Profile%20views&color=0e75b6&style=flat" alt="shreyad10" /> </p>
 
-- 🔭 I’m currently working on **Project - Url Shortner**
+- 🔭 I’m currently working on **ReactJs Projects**
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **NodeJs, C++, C, Javascript, MongoDB**
+- 💬 Ask me about **NodeJs, C++, C, Javascript, MongoDB, ReactJs, Express**
 
 - 📫 How to reach me **10shreyad@gmail.com**
 
