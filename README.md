@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreya Dubey</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyad10&label=Profile%20views&color=0e75b6&style=flat" alt="shreyad10" /> </p>
+<p align="left"> <img src="https://drive.google.com/file/d/1HH5L_v2c5FWHsZOU62dFCfzBvkhRw2YB/view" alt="shreyad10" /> </p>
 
 - 🔭 I’m currently working on **ReactJs Projects**
 
