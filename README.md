@@ -59,12 +59,7 @@
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
   </a>
-  <a href="https://razorpay.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/vector-logo/409477/razorpay" alt="razorpay" width="40" height="40"/>
-  </a>
-  <a href="https://www.phonepe.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/PhonePe-Logo.png" alt="phonepe" width="40" height="40"/>
-  </a>
+
   <a href="https://www.zoho.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/zoho/zoho-icon.svg" alt="zoho" width="40" height="40"/>
   </a>
