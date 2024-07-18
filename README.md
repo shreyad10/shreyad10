@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyad10&label=Profile%20views&color=0e75b6&style=flat" alt="shreyad10" /> </p>
 
-- 🔭 I’m currently working on **ReactJs Projects**
+- 🔭 I’m currently working on **MERN stack Projects**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **NodeJs, C++, C, GraphQl, Payment Gateways, CRMs, Javascript, MongoDB, ReactJs, Express**
+- 💬 Ask me about **NodeJs, C++, C, GraphQl, Payment Gateways, Zoho CRM, Javascript, MongoDB, ReactJs, Express**
 
 - 📫 How to reach me **dubeyshreya10.sd@gmail.com**
 
