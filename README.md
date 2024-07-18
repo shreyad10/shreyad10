@@ -56,17 +56,17 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/> 
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
   </a>
-  <a href="https://razorpay.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/17035850?s=200&v=4" alt="razorpay" width="40" height="40"/> 
+  <a href="https://razorpay.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Razorpay_logo.svg" alt="razorpay" width="40" height="40"/>
   </a>
-  <a href="https://www.phonepe.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/50318241?s=200&v=4" alt="phonepe" width="40" height="40"/> 
+  <a href="https://www.phonepe.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/PhonePe-Logo.png" alt="phonepe" width="40" height="40"/>
   </a>
-  <a href="https://www.zoho.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/651038?s=200&v=4" alt="zoho" width="40" height="40"/> 
+  <a href="https://www.zoho.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/zoho/zoho-icon.svg" alt="zoho" width="40" height="40"/>
   </a>
 </p>
 
