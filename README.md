@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shreya Dubey</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyad10&label=Profile%20views&color=0e75b6&style=flat" alt="shreyad10" /> </p>
 
@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **NodeJs, C++, C, Javascript, MongoDB, ReactJs, Express**
+- 💬 Ask me about **NodeJs, C++, C, GraphQl, Payment Gateways, CRMs, Javascript, MongoDB, ReactJs, Express**
 
-- 📫 How to reach me **10shreyad@gmail.com**
+- 📫 How to reach me **dubeyshreya10.sd@gmail.com**
 
 - ⚡ Fun fact **I speak only English**
 
